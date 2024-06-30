@@ -6,6 +6,7 @@ Before you begin, ensure you have the following requirements installed:
 
 - Git for Windows
 - Node.js LTS version
+  **Note**: A `.env` file is included in the project to facilitate easy setup on your local machine for the interviewer.
 
 Follow these steps to set up the project:
 
