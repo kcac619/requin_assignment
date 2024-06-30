@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  background-color: #90a2c3;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.header {
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  color: #fdfdfd;
+  text-shadow: 1px 1px 2px #0f02ff;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Arial", sans-serif;
+}
